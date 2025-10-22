@@ -1,0 +1,150 @@
+{
+  "summary": {
+    "High": 4,
+    "Medium": 4,
+    "Low": 0,
+    "Unknown": 0
+  },
+  "actions": [
+    {
+      "target": "http://example.com",
+      "tool": "Qualys",
+      "risk": "High",
+      "action": "Quarantine host (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Qualys",
+      "risk": "High",
+      "action": "Revoke tokens/keys (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Qualys",
+      "risk": "High",
+      "action": "Notify IR on-call (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Qualys",
+      "risk": "Medium",
+      "action": "Open remediation ticket (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Qualys",
+      "risk": "Medium",
+      "action": "Schedule patching within SLA (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Microsoft VM",
+      "risk": "High",
+      "action": "Quarantine host (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Microsoft VM",
+      "risk": "High",
+      "action": "Revoke tokens/keys (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Microsoft VM",
+      "risk": "High",
+      "action": "Notify IR on-call (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Microsoft VM",
+      "risk": "Medium",
+      "action": "Open remediation ticket (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://example.com",
+      "tool": "Microsoft VM",
+      "risk": "Medium",
+      "action": "Schedule patching within SLA (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Qualys",
+      "risk": "High",
+      "action": "Quarantine host (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Qualys",
+      "risk": "High",
+      "action": "Revoke tokens/keys (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Qualys",
+      "risk": "High",
+      "action": "Notify IR on-call (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Qualys",
+      "risk": "Medium",
+      "action": "Open remediation ticket (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Qualys",
+      "risk": "Medium",
+      "action": "Schedule patching within SLA (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Microsoft VM",
+      "risk": "High",
+      "action": "Quarantine host (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Microsoft VM",
+      "risk": "High",
+      "action": "Revoke tokens/keys (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Microsoft VM",
+      "risk": "High",
+      "action": "Notify IR on-call (simulated)",
+      "description": "Open port detected"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Microsoft VM",
+      "risk": "Medium",
+      "action": "Open remediation ticket (simulated)",
+      "description": "Outdated software version"
+    },
+    {
+      "target": "http://internal-server.local",
+      "tool": "Microsoft VM",
+      "risk": "Medium",
+      "action": "Schedule patching within SLA (simulated)",
+      "description": "Outdated software version"
+    }
+  ]
+}

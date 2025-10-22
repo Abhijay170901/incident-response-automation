@@ -1,0 +1,50 @@
+[
+  {
+    "target": "http://example.com",
+    "risk": "High",
+    "description": "Open port detected",
+    "tool": "Qualys"
+  },
+  {
+    "target": "http://example.com",
+    "risk": "Medium",
+    "description": "Outdated software version",
+    "tool": "Qualys"
+  },
+  {
+    "target": "http://example.com",
+    "risk": "High",
+    "description": "Open port detected",
+    "tool": "Microsoft VM"
+  },
+  {
+    "target": "http://example.com",
+    "risk": "Medium",
+    "description": "Outdated software version",
+    "tool": "Microsoft VM"
+  },
+  {
+    "target": "http://internal-server.local",
+    "risk": "High",
+    "description": "Open port detected",
+    "tool": "Qualys"
+  },
+  {
+    "target": "http://internal-server.local",
+    "risk": "Medium",
+    "description": "Outdated software version",
+    "tool": "Qualys"
+  },
+  {
+    "target": "http://internal-server.local",
+    "risk": "High",
+    "description": "Open port detected",
+    "tool": "Microsoft VM"
+  },
+  {
+    "target": "http://internal-server.local",
+    "risk": "Medium",
+    "description": "Outdated software version",
+    "tool": "Microsoft VM"
+  }
+]
