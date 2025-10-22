@@ -179,16 +179,11 @@ Showcased governance maturity with clean architecture and secure secret handling
 
 Delivered measurable, auditable, and reproducible incident processes
 
-🏁 Recruiter Snapshot
-Category	Details
-Role Fit	Cybersecurity Analyst / Incident Response / GRC Lead / DevSecOps
-Focus Areas	Threat Detection, Security Automation, Compliance, Cloud Security
-Demonstrated Strengths	Process Ownership, Security Governance, Scripting & Automation, Leadership
-Tech Stack	Python · PowerShell · GitHub Actions · API Integration · JSON · REST · CI/CD
 
 🧭 Final Notes
 
 This project combines the mindset of a Cybersecurity Lead (governance, incident playbooks, risk handling) with the execution ability of a Security Engineer (automation, code, pipelines).
 
 It’s a portfolio piece that shows not just what you know, but what you can build.
+
 
