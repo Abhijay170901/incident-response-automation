@@ -185,8 +185,9 @@ Phase	Description
 4 – Reporting Dashboard	Real-time visualization with Streamlit or Grafana
 5 – Cloud Integration	Integrate AWS & Azure Security APIs
 6 – Compliance Metrics	Map results to CIS/NIST/GRC controls automatically
-👨‍💼 Professional Summary
 
+
+👨‍💼 Professional Summary
 This repository demonstrates leadership in cybersecurity automation — merging policy, detection, and response under a unified, code-driven framework.
 
 Impact Highlights:
@@ -205,10 +206,9 @@ Role Fit	Cybersecurity Analyst / Incident Response / GRC Lead / DevSecOps
 Focus Areas	Threat Detection, Security Automation, Compliance, Cloud Security
 Demonstrated Strengths	Process Ownership, Security Governance, Scripting & Automation, Leadership
 Tech Stack	Python · PowerShell · GitHub Actions · API Integration · JSON · REST · CI/CD
-🔗 Connect & Collaborate
-
 
 🧭 Final Notes
 
 This project combines the mindset of a Cybersecurity Lead (governance, incident playbooks, risk handling) with the execution ability of a Security Engineer (automation, code, pipelines).
+
 It’s a portfolio piece that shows not just what you know, but what you can build.
