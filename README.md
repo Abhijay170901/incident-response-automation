@@ -112,28 +112,7 @@ Reporting	JSON, Markdown, Audit Logging
 Notification	Slack / Teams Webhooks
 Secrets Management	.env + .gitignore
 Deployment	Local or CI-based GitHub Action
-📊 Sample Workflow Visualization
-┌─────────────────────────┐
-│ Vulnerability Scanners  │
-│ (Qualys, Microsoft VM)  │
-└──────────┬──────────────┘
-           │
-           ▼
-   [Alert Parser Engine]
-       Normalizes data
-           │
-           ▼
- [Response Engine Decision]
- ┌───────────────┬──────────────────┐
- │ HIGH Severity │ MEDIUM Severity  │
- │   ▫ Quarantine│   ▫ Ticket       │
- │   ▫ RevokeKey │   ▫ Patch SLA    │
- │   ▫ Notify IR │                  │
- └───────────────┴──────────────────┘
-           │
-           ▼
-     [Notification Hub]
-     Slack / Teams / Console
+
 
 🧠 Key Skills Demonstrated
 Domain	Capability
@@ -187,7 +166,7 @@ Phase	Description
 6 – Compliance Metrics	Map results to CIS/NIST/GRC controls automatically
 
 
-👨‍💼 Professional Summary
+👨‍💼 Professional Summary-
 This repository demonstrates leadership in cybersecurity automation — merging policy, detection, and response under a unified, code-driven framework.
 
 Impact Highlights:
@@ -212,3 +191,4 @@ Tech Stack	Python · PowerShell · GitHub Actions · API Integration · JSON · 
 This project combines the mindset of a Cybersecurity Lead (governance, incident playbooks, risk handling) with the execution ability of a Security Engineer (automation, code, pipelines).
 
 It’s a portfolio piece that shows not just what you know, but what you can build.
+
