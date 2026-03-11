@@ -184,6 +184,7 @@ Delivered measurable, auditable, and reproducible incident processes
 
 This project combines the mindset of a Cybersecurity Lead (governance, incident playbooks, risk handling) with the execution ability of a Security Engineer (automation, code, pipelines).
 
-It’s a portfolio piece that shows not just what you know, but what you can build.
+
+
 
 
