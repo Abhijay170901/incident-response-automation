@@ -6,7 +6,7 @@
 Automating Detection → Contextual Response → Notification for Cybersecurity Operations
 
 👤 **Author:** Abhijay Nair
-*Cybersecurity Lead | GRC & Incident Response | Security Automation Engineer*
+*Cybersecurity Lead | Incident Response | Security Automation Engineer*
 
 ## 🧩 Overview
 This project simulates a real-world **Security Operations Center (SOC)** automation pipeline, heavily inspired by modern **MXDR (Managed Extended Detection and Response)** methodologies. It demonstrates how a security team can:
