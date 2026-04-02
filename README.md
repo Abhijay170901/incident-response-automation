@@ -34,8 +34,6 @@ incident-response-automation/
 └── README.md
 ```
 
-Each folder mirrors how enterprise SOC teams organize automation pipelines, ensuring scalability and strict auditability.
-
 ## 🚨 Phase 1 – Telemetry Ingestion & Normalization
 **Goal:** Simulate an enterprise SIEM/EDR ingestion workflow.
 
@@ -103,5 +101,3 @@ Each folder mirrors how enterprise SOC teams organize automation pipelines, ensu
 ## 👨‍💼 Professional Summary
 This repository demonstrates a foundational understanding of modern cybersecurity automation—merging policy, detection, and response under a unified framework. By modeling an environment that prioritizes **Microsoft integrations, context-aware logic, and an AI-ready architecture**, it showcases how manual SOC tasks can evolve into scalable, automated defense systems.
 ```
-
----
